@@ -1,1 +1,1 @@
-# Genetic-Algoritm
+Using Genetic-Algoritm to find solution to knapsack problem that means imagine a set of objects you have to pick and each have some kind of weights and you want to get a value but constrained on the weight limit so to find a solution for a big problem it is hard to do by human brain and requires million combination. Here genetic evolutionary algo comes into play
